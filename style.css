@@ -1,1 +1,18 @@
+body {
+    background: rgb(255, 228, 232);
+}
+/* Select by TAG type*/
+p{
+    color: white;
+    background: rgb(7, 110, 7);
+}
+/*Select by ID name (unique) */
+#alyn{
+    color: black;
+    background: lightgreen;
+}
+/*Select by CLASS name (shared styles)*/
 
+.uniform {
+    color: rgb(223, 18, 161);
+}
