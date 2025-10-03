@@ -16,3 +16,13 @@ p{
 .uniform {
     color: rgb(223, 18, 161);
 }
+
+h1{
+    color: rgb(223, 18, 161);
+    font-weight:300;
+    font-style:italic;
+    font-size:34px;
+    font-family:Impact;
+    text-align:center
+
+}
