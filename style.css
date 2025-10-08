@@ -26,3 +26,28 @@ h1{
     text-align:center
 
 }
+
+/* "comment-out code"
+*{
+    border: 2px solid hotpink
+}
+ */
+
+#alyn {
+    border: 20px dotted hotpink;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+.centered {
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    border-width: 14px;
+    border-style: solid;
+    border-color: darkgreen;
+}
